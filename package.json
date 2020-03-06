@@ -1,0 +1,15 @@
+{
+  "name": "squidacolyte",
+  "version": "1.0.0",
+  "description": "Discord Bot for Squid Squibs channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Rosario",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.1",
+    "eslint": "^6.8.0"
+  }
+}

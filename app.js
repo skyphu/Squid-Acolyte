@@ -21,7 +21,6 @@ client.once('ready', () => {
     console.log('Squid Acolyte, ready!');
 });
 
-
 client.on('message', message => {
     //If the message doesn't start with ~ or the command caller is a bot, do nothing
     console.log('Message detected, chirp!');
